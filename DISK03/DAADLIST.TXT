@@ -1,0 +1,296 @@
+                      LISTA DE LOS PROGRAMAS DEL DAAD V2
+================================================================================
+
+I.- IBM PC (6 discos de 5 1/4):
+===============================
+
+NOTA:Los ficheros con la extensi¢n .ARJ est n comprimidos. Bajo cada uno de
+ellos se listan los ficheros que se obtienen al descomprimirlos.
+
+1.-Disco de desarrollo (Developer):
+-----------------------------------
+CHARS.ASM       -En este fuente se declara el numero de partes de una aventura y
+                 la distribuci¢n por los distintos discos de los ficheros que la
+                 componen. Para ensamblar y linkar este fichero y el siguente
+                 son necesarios los programas MASM y LINK de Microsoft (no
+                 incluidos). En caso de que no se disponga de estos programas
+                 tambi‚n se incluye una versi¢n ejecutable de los int‚rpretes
+                 (ver disco 3)
+EXTERN.ASM      -Fuente m¡nimo a linkar con un interprete de PC si no se usan
+                 externs en PC
+DC.EXE          -Compilador
+DMG.EXE         -Creador de bases de datos gr ficas para PC (CGA/EGA) y PCW
+SYMBOLS.SCE     -Declaraci¢n de s¡mbolos £tiles a la hora de programar
+                 (como por ejemplo, los nombres de las banderas)
+SYMBOLS.ASM     -Idem para ensamblador
+MACROS.Z80      -Idem
+SYMBOLS.Z80     -Para incluir peque¤os listados en ensamblador de Z80 
+                 en el fuente de la aventura
+SYMBOLS.652     -Idem para el microprocesador 6502
+BLANK.SCE       -Fuente m¡nimo para empezar una aventura
+BLANK.DDB       -Versi¢n compilada de BLANK.SCE
+DMSXI.Z80       -Int‚rprete de MSX
+
+OBJ          <DIR>      -Los int‚rpretes de PC vienen como m¢dulos objeto para
+                         poder linkarlos con EXTERN.OBJ y CHARS.OBJ
+        CHARS.OBJ       -Versi¢n ensamblada de CHARS.ASM
+        EXTERN.OBJ      -Versi¢n ensamblada de EXTERN.ASM
+        INTE.OBJ        -Distintos tipos de int‚rpretes (en ingl‚s y espa¤ol)
+        INTECGA.OBJ
+        INTED.OBJ
+        INTEDM.OBJ
+        INTEM.OBJ
+        INTS.OBJ
+        INTSCGA.OBJ
+        INTSD.OBJ
+        INTSDM.OBJ
+        INTSM.OBJ
+
+
+2.-Disco de utilidades del DAAD (Utilities):
+--------------------------------------------
+GRAPHICS     <DIR>
+        DRAW         <DIR>
+                DSC.COM         -Convierte gr ficos de Spectrum a Commodore 64
+                DSM.COM         -Idem a MSX
+                DSA.COM         -Idem a Amstrad CPC
+                DCA.COM         -Comprime los gr ficos de Spectrum
+                DCS.COM         -Comprime los gr ficos de Amstrad CPC
+
+        PIXELS       <DIR>
+                CACGA.COM       -Convierte gr ficos de Amstrad CPC a CGA
+                CSTEGA.EXE      -Convierte gr ficos en formato .PI1 de ST a EGA
+                CSTVGA.EXE      -Idem a VGA (para la pantalla de presentaci¢n)
+                CSTAM.EXE       -Idem a Amiga
+                CSTS.EXE        -Idem a Spectrum
+                CSTA.COM        -Idem a Amstrad CPC
+                CST1PCW.EXE     -Idem a PCW
+                CST3PCW.EXE     -Convierte gr ficos en formato .PI3 de ST a PCW
+
+COMMS        <DIR>
+        XMP.EXE         -Comunicaciones entre PC y Spectrum (Con Disciple)
+        GOCBM.COM       -Comunicaciones con Commodore 64
+        PPM.COM         -Env¡a una aventura al MSX y la ejecuta (Necesita PDS)
+        AAH.COM         -A¤ade una cabecera de Amstrad CPC a un fichero
+        ASH.COM         -A¤ade una cabecera de Spectrum +3 a un fichero
+        RAAH.COM        -Quita la cabecera de Amstrad CPC de un fichero
+        RASH.COM        -Quita la cabecera de Spectrum +3 de un fichero
+
+SQUEEZE      <DIR>
+        FINDTOK.EXE     -Halla los tokens que proporcionar n la compresi¢n m s
+                         eficiente del texto de la aventura.
+
+RECOVER      <DIR>
+        LOOK.COM        -Permite examinar los textos de una aventura compilada
+
+PRINT        <DIR>
+        SPP.COM         -Pone la impresora en modo IBM
+        WP           <DIR>
+                STRIP.COM       -Elimina los espacios al final de cada l¡nea
+                                 de un texto.
+                ASC1ST.COM      -Convierte un texto en formato del 1st Word
+                                 de Atari a ASCII
+
+ASM          <DIR>
+        MHEX.COM        -Crea a partir de un fichero binario un bloque en
+                         fuente para incluir en el listado de la aventura
+        GENTASM.COM     -Convierte un listado de GENS de Spectrum al ensamblador
+                         cruzado 2500AD (no incluido)
+
+
+3.-Disco de int‚rpretes ejecutables:
+------------------------------------
+Para el caso de que no se disponga de los programas MASM y LINK necesarios
+para montar los int‚rpretes de PC, aqu¡ se incluyen ya montados. De los que
+necesitan que se les indique el n£mero de partes de la aventura, se incluyen
+versiones para una, dos y tres partes.
+
+INTE1.EXE
+INTE2.EXE
+INTE3.EXE
+INTECGA1.EXE
+INTECGA2.EXE
+INTECGA3.EXE
+INTED.EXE
+INTEDM.EXE
+INTEM1.EXE
+INTEM2.EXE
+INTEM3.EXE
+INTS1.EXE
+INTS2.EXE
+INTS3.EXE
+INTSCGA1.EXE
+INTSCGA2.EXE
+INTSCGA3.EXE
+INTSD.EXE
+INTSDM.EXE
+INTSM1.EXE
+INTSM2.EXE
+INTSM3.EXE
+
+
+4.-Disco de documentos y demostraci¢n (Doc & Demo)
+--------------------------------------------------
+EXTERN.ARJ      -Demostraci¢n de externs para ordenadores de 8 bits
+        EXTERN.DOC
+        EXTERN.SCE
+        JMSINT.Z80
+        DSRCPC.Z80
+        DSRMSX.Z80
+        RCCPC.Z80
+        RCMSX.Z80
+        RCSPE.Z80
+        SONIDOS.EMD
+
+GFX.ARJ         -Demostraci¢n del comando GFX (manejo de gr ficos y paletas en
+                 16 bits).
+        GFX.DOC
+        GFX.SCE
+        GFXREAD.ME
+
+TEMPLOS1.ARJ    -Todo lo necesario para compilar y ejecutar la primera parte de
+                 "Los Templos Sagrados"
+        T1.SCE          -Fuente principal
+        TD.SCE          -Otros fuentes
+        TP.SCE
+        TV.SCE
+        T1B.TXT         -Texto para ordenadores con mucha memoria
+        T1B.TOK         -Y los tokens para su compresi¢n
+        T1S.TXT         -Texto para ordenadores con memoria peque¤a
+        T1S.TOK         -Y sus tokens
+        TS1.TXT         -Mensajes del sistema
+        INTSDM.EXE      -Int‚rprete
+        T1.DDB          -Aventura ya compilada
+        T1.DAT          -Gr ficos (CGA/EGA/VGA)
+        T1.CHR          -Juego de caract‚res
+
+5.-Manuales del DAAD
+--------------------
+
+6.-Programas de dominio p£blico/shareware
+-----------------------------------------
+ARJ             -Compresor/descompresor
+PROCOMM         -Programa de comunicaciones
+QEDIT           -Editor de textos
+
+
+II.- ATARI ST (1 disco de 3 1/2 formateado a doble cara):
+=========================================================
+
+EDI1.PRG        -Int‚rprete ingl‚s para una parte. Baja y media resoluci¢n.
+EDI1L.PRG       -Int‚rprete ingl‚s para una parte. S¢lo baja resoluci¢n.
+EDI2.PRG        -Int‚rprete ingl‚s para dos partes. Baja y media resoluci¢n.
+EDI2L.PRG       -Int‚rprete ingl‚s para dos partes. S¢lo baja resoluci¢n.
+EDI3.PRG        -Int‚rprete ingl‚s para tres partes. Baja y media resoluci¢n.
+EDI3L.PRG       -Int‚rprete ingl‚s para tres partes. S¢lo baja resoluci¢n.
+SDI1.PRG        -Int‚rprete espa¤ol para una parte. Baja y media resoluci¢n.
+SDI1L.PRG       -Int‚rprete espa¤ol para una parte. S¢lo baja resoluci¢n.
+SDI2.PRG        -Int‚rprete espa¤ol para dos partes. Baja y media resoluci¢n.
+SDI2L.PRG       -Int‚rprete espa¤ol para dos partes. S¢lo baja resoluci¢n.
+SDI3.PRG        -Int‚rprete espa¤ol para tres partes. Baja y media resoluci¢n.
+SDI3L.PRG       -Int‚rprete espa¤ol para tres partes. S¢lo baja resoluci¢n.
+DMG.PRG         -Creador de bases de datos g ficas para ST, Amiga y PC (CGA,EGA,
+                 VGA). Tambi‚n para incluir sonidos digitalizados (ST y Amiga)
+DMG.RSG         -Su fichero de recursos.
+DSTA.PRG        -Covierte pantallas de ST a Amiga
+DSTA.RSC        -Su fichero de recursos.
+PART1.CH0       -Un juego de caract‚res para baja resoluci¢n
+PART1.CHR       -Un juego de caract‚res para media resoluci¢n
+INTRAM.ACC      -Un disco-ram de dominio p£blico
+INTRAM.RSC      -Su fichero de recursos
+
+DEMO         <DIR>
+        STT1.DAT -La base de datos gr fica de la primera parte de Los Templos
+                  Sagrados para poder estudiarla con el DMG y poder hacer las
+                  versiones de Atari ST y Amiga si se desea.
+
+
+III.- AMIGA (1 disco de 3 1/2):
+===============================
+
+OTROS        <DIR>
+        DAAD         <DIR>
+                EDI1            -Int‚rprete ingl‚s para una parte
+                EDI2            -Int‚rprete ingl‚s para dos partes
+                EDI3            -Int‚rprete ingl‚s para tres partes
+                SDI1            -Int‚rprete espa¤ol para una parte
+                SDI2            -Int‚rprete espa¤ol para dos partes
+                SDI3            -Int‚rprete espa¤ol para tres partes
+                PART1.CHR       -Set de caracteres
+                SDI2.INFO       -Un icono que, renombr ndolo, se puede usar
+                                 con cualquier int‚rprete
+
+        UTILIDADES   <DIR>
+                DOS-TO-DOS      -Permite leer y escribir discos de PC y Atari
+                VT100           -Programa de comunicaciones
+
+Este disco contiene, adem s, todos los directorios y ficheros necesarios para
+hacer que la aventura se autoejecute. Para ello basta con hacer una copia del
+disco, eliminar el directorio OTROS y, evidentemente, incluir la aventura.
+
+
+IV.- Spectrum (1 disco de 3 1/2 para Disciple y otro de 3'' para +3)
+====================================================================
+
+1.-Disciple:
+------------
+DRS             -Cargador BASIC para una aventura
+DS48IS          -Int‚rprete
+DG              -Editor de gr ficos: cargador BASIC
+DS48GE          -Editor de gr ficos: programa en C.M.
+BLANK    +      -Una base de datos gr fica vac¡a necesaria para el editor
+XM              -Programa de comunicaciones con PC: cargador BASIC
+SXM             -Programa de comunicaciones con PC: programa en C.M.
+
+2.-Spectrum +3:
+---------------
+DRS             -Cargador BASIC para una aventura
+DS48IS.P3F      -Int‚rprete
+DG              -Editor de gr ficos: cargador BASIC
+DS48GE.P3F      -Editor de gr ficos: programa en C.M.
+BLANK.SDG       -Una base de datos gr fica vac¡a necesaria para el editor
+
+
+
+V.- CPC/PCW (1 disco de 3''):
+=============================
+
+CPC (CMP):
+        P11CPM3.EMS     -Versi¢n de CPM3 preparada para usar el protocolo de
+                         comunicaci¢n Modem7
+        DCPCIS.Z80      -Int‚rprete
+        MCRF.COM        -Construye u programa ejecurable desde AmsDOS a partir
+                         de los ficheros de una aventura
+        UKM7AMS.COM     -Programa de comunicaciones
+
+CPC (AmsDOS)
+        DG.BIN          -Editor de gr ficos
+        BLANK.BIN       -Base de datos gr fica vac¡a para DG
+
+PCW:
+        DPCWIS.Z80      -Int‚rprete PCW
+        PARTE001.CHR    -Set de caracteres
+
+NOTA: El mismo disco de 3'' contiene por una cara los ficheros para +3 y por la
+otra los de CPC y PCW.
+
+VI.- Commodore 64 (2 discos de 5 1/4):
+======================================
+
+1.-DAAD:
+--------
+LS1     -Cargador para la primera parte de una aventura
+LS2     -Idem para la segunda parte
+SDI     -Int‚rprete
+DR      -Programa para recibir based de datos desde PC
+DRC     -Y su C.M.
+DG      -Editor de gr ficos.
+DGC     -Su C.M.
+aBLANK  -Base de datos gr fica vac¡a para DG
+R       -Programa para renombrar ficheros
+S       -Programa para borrar ficheros
+
+2.-FAST HACK'EM:
+----------------
+Programa para formatear disco y copiar discos y ficheros.
+

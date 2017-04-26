@@ -1,0 +1,40 @@
+Aventura Original - MSX
+-----------------------
+
+Lo siento, eso es en ingles...
+
+The supplied IBM disk contains the files needed to make an MSX master
+
+Both parts need the file "dmsxi.z80" - the interpreter.
+This is from 0B000h to 0D0AFh
+Entry at 0B000h, although your loader must patch the ROMIB and ROMOB
+bytes, to give the value for port 0A8h, with ROM and with 64K respectivly.
+The program then uses these as needed to switch between the normal mode
+of all 64K visible in memory and the lower 32K being ROM. This is
+the start of the program:-
+
+	ORG	0B000h
+
+ZZZSTA	JP	INIT
+	DEFW	ZZZEND-ZZZSTA	;Length!
+EXTVEC	RET			;Extern command patch
+	DEFW	0
+ROMIB	DEFB	11110000B		;Sony HitBit 64K values
+ROMOB	DEFB	11111111B
+
+Then for part 1 the files
+PART1.DDB from 0100h to 378Dh	(address' are inclusive)
+PART1.MDG from 629Ah to AFFFh
+
+and for part 2
+PART2.DDB from 0100h to 4F83h
+PART2.MDG from 6CE3h to AFFFh
+
+				*	*	*
+
+Also on the disk is a program called PPM. This allows all the files to be
+sent to a machine with 64K in Slot 3 (e.g. Sony HitBit). Merely
+PPM PART?
+to auto pass and play.
+
+

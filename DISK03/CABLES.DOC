@@ -1,0 +1,69 @@
+                   CONEXION ENTRE LOS ORDENADORES
+
+Hay que construir los siguientes cables:
+
+a) Cable 1:
+-----------  
+Sirve para conectar el PC v¡a RS-232 con el Atari ST, el 
+Amiga y el Amstrad CPC.  Tiene un conector hembra de 25 pines (DB-
+25)  a  cada extremo.  Los conectores deben estar  cableados  como 
+sigue:
+
+          1--------------1
+          2--------------2
+          3--------------3
+      |---4              4---|
+      |   5--------------5   |
+      |---6              6---|
+      |   7--------------7   |
+      |---8              8---|
+         20--------------20
+
+b) Cable 2:
+-----------
+Para  conectar el PC con el RS-232 de un Spectrum 128k ¢  +2.  Los 
+programas  de comunicaciones que se suministran con el  DAAD  s¢lo 
+funcionan  con un Disciple,que es incompatible con el +2A y el  +3 
+(las  comunicaciones  con +3 y PCW se hacen a trav‚s  del  Amstrad 
+CPC,  utilizando discos en formato DATA que pueden ser le¡dos  por 
+cualquiera de los tres ordenadores).
+Es  un cable de 6 hilos con un conector DB-25 en un extremo  y  un 
+conector  para el z¢calo RS-232 del Spectrum en el otro  cableados 
+como sigue:
+
+     Funci¢n DB-25 Spectrum
+     ------- ----- --------
+     Masa      7    1                     |---------------|  
+     TXD       2    2                  |---  6 5 4 3 2 1  |
+     RXD       3    3                  |---  - - - - - -  |
+     DTR       20   4                     |---------------|  
+     CTS       5    5                        
+     +12 V     6    6                     Z¢calo RS-232 Spectrum
+
+
+c) Cable 3:
+-----------
+Para  conectar el puerto paralelo del PC con el puerto de  E/S  de 
+usuario  del Commodore 64.  Es un cable plano de 25 hilos  con  un 
+conector a presi¢n DB-25 en un extremo y el conector adecuado para 
+el Commodore en el otro. Este conector est  cableado como sigue:
+
+     Hilo Patilla del conector del C-64
+     ---- -----------------------------
+     5         M
+     9         L
+     11        K
+     13        J
+     15        H
+     17        F
+     19        E
+     21        D
+     23        C
+     25        B
+
+Los  hilos se han numerado de izquierda a derecha  sosteniendo  el 
+cable  de forma que la patilla A del conector del C-64 es  la  que 
+queda m s a la derecha. 
+     
+
+

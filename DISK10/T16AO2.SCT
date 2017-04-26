@@ -1,0 +1,821 @@
+/STX
+/0
+No se v‚ nada.
+/1
+Puedes ver
+/2
+/3
+ir al
+/4
+.
+/5
+Vicente Misas
+/6
+Lo siento, no entiendo.
+
+/7      ; Por ah¡ no hay camino.
+No puedes
+/8
+No puedes hacerlo.
+
+/9
+Tienes
+/10
+Objeto: _
+/11
+No tienes nada.
+/12
+­Je, Je! Ya est s cabreado.
+
+¨Est s seguro?
+/13
+
+¨Hace otra partidita?
+/14     ; mensaje de despedida
+/15
+Vale.
+
+/16
+/17
+Has dado 
+/18
+ orden
+/19
+es
+/20
+.
+
+/21
+/22
+/23
+/24
+/25
+­Ya lo llevas!
+
+/26
+­No lo encuentras!
+
+/27
+Ya no puedes llevar m s trastos.
+
+/28
+Pero... ­Si no tienes eso!
+
+/29
+/30
+S
+/31
+N
+/32
+*Pulsa una tecla*
+/33
+
+>
+/34
+/35
+
+El tiempo pasa... ­Y no vuelve!
+
+/36
+Has cogido _.
+
+/37
+/38
+/39
+Has dejado _.
+
+/40
+/41
+/42
+/43
+/44
+/45
+/46
+,
+/47
+y
+/48
+.
+
+/49
+­Est  en el suelo!
+
+/50
+/51
+/52
+/53
+/54 ;Letter for Tape
+C
+/55 ;Disc
+D
+/56
+Disco no preparado. Pulsa una tecla para repetir.
+
+/57 
+Error de entrada/salida.
+
+/58  ; disco o directorio lleno
+Disco lleno.
+
+/59 
+Nombre err¢neo.
+
+/60
+Nombre del fichero:
+/61
+Prepara la cinta.
+
+/62
+¨Cinta o Disco? (C/D)
+;-      -       -       -       -       -       -       -       -
+/MTX
+/0
+AVENTURA ORIGINAL II
+/1
+Introduce la clave de acceso.
+/2
+Manuel Gonz lez
+/3
+­­Arggg!! ­Te has ahogado!
+/4
+¨C¢mo la vas a apartar?
+/5
+­Aparta la niebla!
+/6
+Andr‚s  Samudio
+/7
+Una enorme serpiente te observa.
+/8
+El reptil te marca sus colmillos en el cuello, y se marcha.
+/9
+El veneno te ha matado.
+/10
+Y al ver a la serpiente la ataca en los ojos y la hace huir despavorida.
+/11     ; el pajaro sale de la jaula en cualquier sitio o no puedes cazarlo
+El pajarito se escapa, cantando alegremente.
+/12
+El eco susurra: RECOLECTOR
+/13
+Por suerte a£n quedan unas pocas semillas sanas.
+/14
+Nadie te hace caso.
+/15
+Poco a poco las valvas del molusco se abren y con
+asombro descubres que...­es una ostra!
+Dentro hay una preciosa perla que por tu imprudencia cae y rueda por el pasillo.
+/16
+Se cerr¢ para siempre.
+/17
+­Es demasiado fuerte para t¡, forastero!
+/18
+Est s en una f‚tida madriguera llena de caca de drag¢n por todos lados.
+El olor es insoportable, pero del Norte llega una suave brisa h£meda.
+/19
+Frente a t¡ tienes al bissho m s grande que hayas visto jam s.
+/20
+­Qu‚ rico! Exclama relamiendose, otro aventurero para cenar.
+/21
+Mir ndote amenazante desde lo alto, ruge : ­Ser s un buen bocata!
+/22
+Chorreando espesa baba avanza bamboleante hacia t¡.
+/23
+Asustado por tu valentia, el cobardica vuelve llorando a su casa en el Hobbit.
+/24
+­Agua, agua!
+/25
+­Piensa un poco! Es f cil.
+/26
+En el suelo hay unas semillas de Jud¡as.
+/27
+Absorbiendo  vidamente el precioso l¡quido las semillas se
+hinchan, se abren y de ellas nace una tierna plantita de Jud¡as.
+/28
+Al recibir m s agua, el tronco se endurece y crece fuerte hacia lo
+alto hasta salir por el agujero superior.
+/29
+Las resecas semillas queman tu mano y caen de nuevo a tierra.
+/30
+­Hala! con tus patazas has roto la tierna plantita.
+/31
+El aceite, como es l¢gico, las deja bien fritas.
+/32
+
+@ se ha roto en el suelo.
+/33
+­Algo te impide pasar!
+/34
+"En este lugar perdi¢ el Rey Elfo una pepita de oro."
+/35
+­Busca luz!
+/36
+­Te bloquea un fornido Troll que ruge: "un tesoro has
+de dar para poder pasar"!
+/37
+­No intentes enga¤arme! @ no es un tesoro.
+Y cabreado tira _ al abismo.
+/38
+­Si el peaje no quieres pagar, conmigo tendr s que luchar!
+/39
+­Cojo _. Pasa aventurero cobardica!
+/40
+Al verse libre, Peposo escapa dejando a tus pies la cadena.
+/41
+Se yergue sobre sus patas traseras
+y agitando sus garras amenazadoramente, abre su enorme
+boca y deja escapar un cavernoso rugido. Al verlo suelto,
+el Troll Chulangas sale corriendo.
+/42
+Peposo se tranquiliza, come la tortilla y agradecido te lame la
+sucia cara. Tienes un fiel amigo.
+/43
+Lo liberas de la pared y lo llevas de la cadena.
+/44
+Por el peso de Peposo, el puente se rompe y los dos al foso.
+/45
+El invencible Troll Chulangas te da una patada.
+/46
+Se te ha caido.
+/47
+El oso Peposo est  encadenado.
+/48
+------- LOS TESOROS DE -------
+
+
+----- LA CAVERNA ORIGINAL ----
+
+
+---------- SON TUYOS ---------
+/49
+El huevo vibra afectado por el hechizo.
+/50
+­El huevo aparece entre tus pies!
+/51
+Tal como dijo Elfito, sin tesoros que le den fuerza vital,
+la caverna se colapsa. El cataclismo acaba con todo ser viviente.
+/52
+­Un enorme oso tira con furia de su cadena para darte un abrazo de bienvenida!
+/53     ; dar algo al oso o al drag¢n
+Se ha comido _.
+/54
+Recibes de lleno el ataque del enorme oso Peposo.
+/55
+No le encuentras nada de especial.
+/56
+Necesitar s algo, ¨no?
+/57
+La jaula tiene la reja abierta.
+/58
+Aqu¡ hay una puerta herrumbrosa.
+/59
+Hay una puerta bien aceitada.
+/60
+La puerta est  abierta.
+/61
+Gr ficos:
+/62
+/63
+Tesoro: _
+/64
+No te equivoques.
+/65
+Est s en un
+/66
+laberinto de
+/67
+habitaciones
+/68
+entrelazadas
+/69
+peque¤as
+/70
+peque¤o
+/71
+entrelazado
+/72
+Hay un agujero en el suelo
+/73
+Est s en la guarida del pirata clept¢mano
+/74
+La linterna va mal. La luz parpadea.
+/75
+­La linterna apenas da luz!
+/76
+Tropiezas en la oscuridad y te desnucas.
+/77
+Carlos  Marqu‚s
+/78
+ovales
+/79
+pasillos
+/80
+intercomunicados
+/81
+intercomunicado
+/82
+pasillo oval de un
+/83
+(c) 1989 Aventuras AD
+/84
+­CHUMM! ­PUM! ­BROOM! ­PIFSSSS!
+
+­­­ Pilas recargadas !!!
+/85
+­El enano Maluva sale de entre las sombras!
+/86     ; el  es para usar MES y no provocar scroll en la peque¤a ventana
+Te arroja con furia su hacha...
+/87
+Con un gran insulto vuelve a las tinieblas.
+/88
+­El enano se las sabe todas!
+/89
+Maluva te parte en dos la cabeza.
+/90
+­Has fallado! El hacha cae al suelo.
+/91
+­Le has cortado la cabeza!
+­Maluva se desintegra junto con su hacha!
+/92
+Pone XYZZY.
+/93
+FELICIDADES
+
+
+Aparece Elfito y te dice:
+
+
+    "Al haber perdido todos
+
+  sus tesoros La Gran Caverna
+
+      no tiene raz¢n para
+
+    seguir existiendo y est 
+
+     a punto de derrumbarse,
+
+    largu‚monos cuanto antes"
+
+
+y se las pira...
+/94
+Tienes al p jaro enjaulado.
+/95
+Un pajarillo revolotea por la estancia.
+/96
+Vale gran mago. El pajarillo se transforma en drag¢n,
+y de un flamazo te incinera.
+/97
+Aparece el Terrible Pirata. ­Te quito _ y me voy a mi entrelazada guarida!
+/98
+Nivel de energia: 
+/99
+No se ve bien.
+/100
+Las letras est n grabadas en la piedra.
+/101
+...tras un corto descansito sigues con lo tuyo.
+/102
+alt¡simo.
+/103
+Intenta hacerte un mapa.
+/104
+El oso viene contigo.
+/105
+No hace falta.
+/106
+EL ENCUENTRO
+/107
+Programaci¢n:
+/108
+Pone "OID".
+/109
+...­y falla por poco!
+/110
+Utiliza la magia.
+/111
+Caes por el precipicio y te estampas contra el suelo.
+/112    ; saltar en habitaci¢n blanda
+­Boing! ­Boong!
+/113
+No sel pu¤etelo.
+/114
+Coger se escribe con `G'.
+/115
+La magia hace temblar la cueva.
+/116
+La serpiente se est  poniendo nerviosa.
+/117
+No hay ninguna salida
+/118
+Sur
+/119
+Este
+/120
+Oeste
+/121
+Noreste
+/122
+Noroeste
+/123
+Sureste
+/124
+Suroeste
+/125
+Subir
+/126
+Bajar
+/127
+Entrar
+/128
+Salir
+/129
+Norte
+/130
+Las salidas posibles son
+/131    ; punto final salidas
+.
+/132    ; separador de salidas
+,
+/133    ; separador de £ltimas salidas
+y
+/134
+La £nica salida es
+/135
+***RECOLECTOR DE TESOROS***
+
+
+/136    ; cuando faltan poquitos objetos por poner
+Animo, solo te faltan
+/137    ; £ltimo objeto
+Si no has perdido el £ltimo tesoro vencer s a la Gran Caverna.
+/138
+La figura te imita.
+/139    ; ex espejo
+El espejo, en ‚stos momentos, solo refleja la ventana vac¡a de la
+habitaci¢n situada al otro lado del abismo.
+/140
+Direcci¢n:
+/141    ; jaula del p jaro
+La jaula est  vac¡a.
+/142    ; ex p jaro
+Est  volando.
+/143    ; buscar pepita loc.9
+La niebla te lo impide.
+/144    ; ex fisura
+Es una raja muy profunda.
+/145    ;       mensaje de despedida
+­Bien hecho!
+
+
+Todos los habitantes del valle
+
+han venido a admirar al nuevo:
+
+
+       MAESTRO AVENTURERO
+
+
+ A tus pies aparecen todos los
+
+     tesoros conquistados.
+
+
+El equipo A.D.
+
+ te invita a participar en su
+
+pr¢xima aventura.
+
+
+
+/146    ; cuando se abre la entrada
+M gicamente, d ndote otra oportunidad de vivir, la puerta se abre...
+/147    ; descripci¢n cueva con barrotes puestos
+Te encuentras en una peque¤a cueva, rodeado de h£medas rocas.
+Los rayos del sol penetran a trav‚s de los barrotes de la cerrada reja.
+Hacia el Oeste sale un pasadizo bajo y oscuro que se pierde en el misterio.
+/148    ; cueva con puerta abierta
+Te encuentras en la salida al exterior de la cueva. Vuelves a ver
+los rayos del sol.
+/149    ; leer nota en negra
+Pone: "GRACIAS POR HABER TRAIDO LUZ A ESTA TRISTE HABITACION"
+/150
+Con un click la puerta se cierra m gicamente...
+/151    ; examinar tesoro
+@ es un tesoro.
+/152    ; examinar objeto
+@ es un objeto.
+/153    ; puente del troll
+Es un puente colgante muy peligroso.
+/154    ; puente de cristal
+Es un puente m gico.
+/155    ; ex hacha
+Es muy grande.
+/156    ; ex torti
+Se la comer¡a hasta un oso.
+/157    ; ex almeja
+Neptuno las abr¡a f cilmente con sus tres dientes.
+/158    ; ex llave
+Es la llave del zool¢gico subterr neo de los Reyes Elfos.
+/159    ; ex caca
+Debido a tu retorcida curiosidad te pringas todo, ­Cochino!
+/160
+El precipicio queda al
+/161
+Usa otros sentidos o la magia.
+/162
+­La linterna se ha apagado!
+#IF !CPC
+ /163
+ Tambien participaron: Eva Samitier, Juan Darder, Juanjo Mu¤oz
+ y Tim Gilberts (some bugs).
+#ENDIF
+;       -      -       -       -       -       -       -       -       -
+/OTX
+/0
+Una linterna encendida01
+/1
+Una moneda23
+/2
+Una linterna apagada01
+/3
+Una tortilla?/
+/4
+Una botella&'
+/5
+Una botella con agua*+
+/6
+Una llave,-
+/7
+Una pila45
+/8
+Una jaulaab
+/9
+Una varita m gicaef
+/10
+Una jaula con p jaro=~
+/11
+Una botella con aceite*+
+/12
+Un hueso humano algo chamuscado89
+/13
+Una almohada#$
+/14
+Un hachaut
+/15
+Un canto rodado:
+/16
+Una pepita de oro>
+/17
+Un diamanteij
+/18
+Una barra de titaniopq
+/19
+Una joyars
+/20
+Unas especias indias%
+/21
+Una alfombra persagh
+/22
+Un tridente marinovw
+/23
+Una gran perlax
+/24
+Un huevo de orom
+/25
+Una cadena de plata{}
+/26
+Una pir mide de platinocd
+/27
+Una esmeraldakl
+/28
+Un jarr¢n chinoyz
+/29
+Un garfio de orono
+;       -      -       -       -       -       -       -       -       -
+/LTX
+/0
+/1
+/2
+/3      ; entrada a la caverna
+/4
+Gateas trabajosamente sobre cantos rodados en un pasadizo muy bajo.
+El lugar es muy estrecho, con paredes poco trabajadas y llenas de
+humedad. Todo parece indicar que era una salida de emergencia. Una
+suave luminosidad te llega del Este.
+/5
+El camino de guijarros termina aqu¡, donde se acumulan todos los
+desechos arrastrados por el rio. La caverna se hace un poco m s amplia
+y un misterioso ca¤on contin£a hacia el Oeste. Un enigm tico texto
+grabado en la roca rompe la monoton¡a de la pared.
+/6
+/7
+El ca¤on se abre formando una espl‚ndida c mara llena
+de p‚treas cascadas doradas adornadas con rojas pinceladas
+de ferrita. El techo est  decorado con bellas estalactitas multiformes. En
+el centro destaca una enorme y labrada estalagmita que se eleva majestuosa.
+/8
+El r£stico pasaje de escape hacia el Este termina aqu¡. A tus pies se abre
+un agujero por el que escapan tenues retazos de tibia niebla.
+/9
+El lado Este de la enorme C mara de las Nieblas est  lleno de c£mulos
+de denso vapor que se deslizan silenciosamente
+por la estancia dificultando la visi¢n. Hay una nota en la pared y, entre
+la niebla, distingues una escalera de piedra que baja a£n m s hacia
+desconocidas profundidades.
+/10
+Est s junto a una enorme y ancha fisura que parte en dos la c mara. Del
+abismo salen desagradables ruidos de espesos borboteos
+y tambi‚n nace la niebla, muy espesa en ‚sta zona.
+/11
+Sigues junto a la impresionante fisura, pero ahora est s
+junto a un bell¡simo puente de m gico cristal multicolor.
+/12
+Es el lado oeste de la C mara, aqu¡ no hay tanta niebla y puedes ver varias
+salidas que se abren hacia los desconocido.
+/13
+/14
+/15
+/16
+/17
+/18
+/19
+/20
+/21
+/22
+/23
+/24
+/25
+Hay una m quina recarga-pilas con una ranura para meter monedas.
+/26
+/27
+/28
+/29
+/30
+/31
+/32
+/33
+/34
+/35
+/36
+/37
+/38
+El Trono de los Reyes Elfos de las Monta¤as est  en una
+impresionante habitaci¢n. Las
+paredes est n decoradas con varios trofeos y bellos tapices que, aunque algo
+da¤ados, a£n recuerdan un pasado esplendoroso.
+/39
+Esta habitaci¢n es un bajo pasaje inclinado, su direcci¢n es Norte-Sur
+y en el rocoso suelo hay un agujero que penetra a£n m s en las entra¤as
+de la caverna.
+/40
+Est s en la Sala Ac£stica, donde convergen todos los sonidos de la inmensa
+caverna. Cuentan que los Reyes Elfos o¡an aqu¡ los conciertos
+ofrecidos por las hadas cantoras. En el pilar central hay, tallado en la roca,
+un curioso mensaje.
+/41
+El mirador tiene una ventana que da al profundo abismo. El fondo se halla
+cubierto de espesa niebla y al lado opuesto se abre otra ventana hacia
+una habitaci¢n en penumbra, desde la cual te observa una extra¤a
+figura. Tambien hay un charco de agua.
+/42
+/43
+/44
+/45
+/46
+/47
+/48
+/49
+En la habitaci¢n marina se oye a lo lejos el sonido de las olas del mar y se
+respira un picante aire salado. Una enorme
+almeja est  anclada firmemente al inclinado suelo.
+/50
+Est s en un inclinado corredor de cortantes paredes. Por el centro baja
+una rampa de granito.
+/51
+Has llegado al final del corredor inclinado, es un fondo de saco excavado en la
+roca donde termina la gran¡tica rampa.
+/52
+/53
+Has encontrado la habitaci¢n secreta por donde los reyes Elfos desaparec¡an
+hacia sus correr¡as nocturnas. Hay
+un agujero en el suelo que te llevar  a£n mas profundo, hacia
+los fosos. Huele un poco a caca de drag¢n.
+/54
+/55
+Una galer¡a muy alta y con humedad que le llega del Norte. Arriba,
+colgando del techo hay un enorme
+espejo. En la pared, muy alto y frente al espejo, hay una ventana por la que
+se ven retazos de vapor ascendiendo. Hay un agujero en el suelo,
+por el cual se oyen campanitas chinas.
+/56
+A ‚sta laguna subterranea formada por el agua del rio del valle
+ven¡a a beber y tomar ba¤os el drag¢n cobarde.
+/57
+/58
+/59
+/60
+Est s en la famosa habitaci¢n del Queso Suizo, viendo sus paredes
+perforadas por miles de polimorfos agujeritos y oliendo, muy a pesar tuyo,
+su fort¡simo aroma.
+/61
+/62
+/63
+/64
+El fondo del Pozo Oeste queda unos 4 mts. por debajo del sal¢n Dos
+Fosos. En lo alto ves el agujero.
+/65
+Est s al lado de un dep¢sito de aceite en el Foso Este.
+/66
+La Habitaci¢n Dos Fosos es muy grande, est s en el lado Oeste, cerca
+a uno de los fosos, y ves que la bajada es f cil debido a lo tallado de las
+paredes de roca.
+/67
+Est s al Este de la Habitaci¢n Dos Fosos, al lado de uno de los fosos. La
+bajada es f cil debido a lo tallado de las paredes de roca. Desde
+el Este llega un fuerte olor.
+/68
+La habitaci¢n blanda lo es porque una gruesa alfombra cubre
+el suelo duro de la roca y las paredes est n tapizadas por espeso
+moho.
+/69
+/70
+La habitaci¢n Oliental estal bellamente decolada con finas sedas y
+pleciosos cuadlos. En el aile oilse el dulce ta¤ido de las
+campanitas de viento y hasta tu sentilte un poco chinito.
+/71
+/72
+La Alcoba, lugar de retozos de los Reyes. Hoy dia vac¡a y olvidada. Una
+misteriosa luz verde sale por un estrecho pasaje al Este.
+/73
+La habitaci¢n m gica no necesita luz. Su enorme poder la hace
+vibrar y carga el aire de el‚ctricas motitas de energ¡a
+que dan a la escena un sobrenatural resplandor verde. En el
+lado Norte hay una puerta hacia la oscuridad.
+/74
+Est s del lado Suroeste de un abismo cruzado s¢lo por un destartalado
+y peligroso puente. De la enorme grieta brotan f‚tidos gases y se
+escucha el rugir de las entra¤as del volc n.
+/75
+Este es el lado Noreste del abismo. Del Este llegan r fagas de
+aire caliente y se escucha el sordo retumbar del magma hirviente.
+/76
+Encima de una cornisa de unos 10 mts. de altura sobre un
+profundo cortado del que suben extra¤os vapores. En
+las paredes de h£meda roca que dan al abismo se encuentran,
+enfrentadas, dos ventanas.
+/77
+Hac¡a a¤os que la luz no rasgaba las espesas tinieblas de la habitaci¢n Negra.
+/78
+El hacha y el escudo del gigante llenan casi por completo este lugar. En
+la pared se lee: FEE FIE FOE FOO.
+
+/79
+/80
+/81
+/82
+/83
+/84
+Esta habitaci¢n tiene las paredes calientes y combadas hacia
+dentro por la ardiente presi¢n que soportan. Estamos tan cerca
+al coraz¢n del furioso volc n que su latir
+hace temblar toda la estructura. Del techo cae un fino polvillo
+mezclado con cenizas y
+de los lados ruedan peque¤as rocas chamuscadas.
+/85
+/86
+/87
+/88
+Es un h£medo pasadizo inclinado, bastante inc¢modo y resbaloso
+que termina frente a una jaula muy fuerte, como para contener a
+un terrible animal. De hecho, apesta a fiera que marea.
+/89
+Est s dentro de una apestosa y sucia jaula en las profundidades de
+la caverna. Hoy dia es lo £nico que resta del anta¤o bien surtido
+zool¢gico subterraneo.
+/90
+Est s en un magn¡fico lago interior, frente a la espumosa Gran Cascada. En
+el centro hay un remolino que succiona con avaricia. La luz
+de tu l mpara crea en el roc¡o bellos juegos de luz,
+llegando por momentos a formar un multicolor arcoiris.
+/91     ; Recolector de tesoros. Descripci¢n en mensaje 135
+/92     ; Muerte
+Lo siento, no has logrado sobrevivir dentro de la Gran Caverna.
+
+/93
+/94
+/95     ; Pantalla de paso
+/96
+/97
+/98
+/99
+/100
+/101
+/102
+/103
+/104
+/105
+/106    ; fin juego - gr fico
+/107    ; gr fico entrada cerrada
+/108    ; gr fico pirata
+

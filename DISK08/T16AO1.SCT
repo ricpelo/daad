@@ -1,0 +1,593 @@
+/STX
+/0
+­Este sitio apesta y est  oscuro!
+/1
+Puedes ver
+/2
+/3
+ir al
+/4
+.
+/5
+Vicente Misas
+/6
+Lo siento, no te entiendo.
+
+/7 ;En esa direcci¢n no se puede.
+No puedes
+/8
+No puedes hacerlo.
+
+/9
+Tienes
+/10     ; Tienes puesto:
+/11
+/12
+­Je, Je! Ya est s cabreado.
+
+¨Est s seguro?
+/13
+
+¨Hace otra partidita?
+/14
+
+/15
+Vale.
+
+/16 ;Anykey I think
+/17
+Has dado 
+/18
+ orden
+/19
+es
+/20
+.
+
+/21
+/22
+/23
+Est s en una depresi¢n de 7 mts. El valle se estrecha hacia el Sur.
+/24
+/25
+Ya ten¡as _.
+
+/26
+­Aqu¡ no hay de eso!
+
+/27
+Ya no puedes llevar m s trastos.
+ 
+/28
+Pero... ­Si no tienes eso!
+
+/29
+/30
+S
+/31
+N
+/32
+*Pulsa una tecla*
+/33
+
+>
+/34
+/35
+
+El tiempo pasa... ­Y no vuelve!
+
+/36
+Has cogido _.
+
+/37
+/38
+/39
+Has dejado _.
+
+/40
+/41
+/42
+/43
+/44
+/45
+/46
+,
+/47
+y
+/48
+.
+
+/49
+No tienes _
+
+/50
+/51
+/52
+/53     ; ­absolutamente nada!
+/54     ; cinta
+C
+/55     ; disco
+D
+/56
+Disco no preparado. Pulsa una tecla para repetir.
+
+/57 
+Error de entrada/salida.
+/58  ; disco o directorio lleno
+Disco lleno.
+/59
+Nombre err¢neo.
+/60
+Nombre del fichero:
+/61
+Prepara la cinta.
+
+/62
+¨Cinta o Disco? (C/D)
+;-      -       -       -       -       -       -       -       -
+/MTX
+/0 ; Despierta, ­que me aburro!
+/1
+Te arrastras como una cucaracha por todo el suelo, 
+/2
+Vale, linterna lista.
+/3
+­Qu‚ horror, el palizas otra vez! ­Prefiero la muerte!
+/4
+­Riqu¡sima!
+/5
+Algo que has hecho te impide completar la aventura.
+/6
+Chapoteas tocando gelatinosas babosidades 
+/7
+pero de pronto descubres que hay ­una moneda!
+/8
+­Busca luz!
+/9
+­Deja objetos como pistas!
+/10
+¨Qu‚ necesita un candado?
+/11
+S‚ l¢gico y hazte un mapa.
+/12
+­pero de monedas nada, listillo!
+/13
+Pone: "CUIDADO CON TUS OBJETOS".
+/14
+­No ves nada especial!
+/15
+Est  encendida.
+/16
+Est  apagada.
+/17     ; ex moneda
+Esta antigua moneda perteneci¢ a los Elfos.
+/18
+?
+/19
+Dejar¡a satisfecho hasta a un oso.
+/20
+Es de vidrio y est  vac¡a.
+/21     ; ex llave
+Lleva la insignia del Rey Elfo.
+/22
+"SEMPER LUX" (No lo creas).
+/23
+Es una s¢lida construcci¢n que anta¤o perteneci¢ a los due¤os del valle,
+hoy est  abandonada.
+/24
+­@ ha caido al suelo!
+/25
+­Asesino nanicida!
+/26
+No est s en clase de bot nica.
+/27
+Un bujero quecha humo y pedorreta.
+/28
+­No te pases!
+/29
+La lava te reduce a cenizas.
+/30
+Tiene una fuerte reja.
+/31
+Baja p'abajo.
+/32
+Sube p'arriba.
+/33
+Es una construcci¢n alt¡sima y de un brillo met lico, pero de
+superficie tan resbaladiza que la hace inexpugnable.
+/34
+De hechura r£stica y buena madera. Muy usada por los
+enanos del bosque.
+/35
+...y te levantas para seguir jugando.
+/36
+­Tate pa la faena!
+/37
+Son ranuras estrechas por las que se cuela el agua del rio.
+/38
+Es muy fuerte. Impide la entrada.
+/39
+Es la Gran Cascada del jefe de los enanos.
+/40
+Flotas en forma de nube.
+/41
+Con un gracioso saltito emprendes el vuelo.
+/42
+Tremendo batacazo en el fondo del abismo.
+/43
+Pareces estar un poco muerto.
+/44
+Te rompes el hocico contra la ra¡z del  rbol.
+/45 ; en el mensaje no deben aparecer las palabras 'ELFO' ni 'ELFITO'
+Te observa por unos instantes y esboza una sonrisa.
+/46
+
+Ya te lo advert¡...
+/47
+­­­FELICIDADES!!!
+/48
+   CLAVE DE ACCESO: TIMACUS
+/49
+   CLAVE DE ACCESO: WHALKIRA
+/50
+   CLAVE DE ACCESO: BATRACCIO
+/51
+   CLAVE DE ACCESO: GUACHARO
+/52
+¨No sabes leer? ­Un enanito desaparece con lo dejado!
+/53
+Hay una fuerte reja met lica
+/54
+. Detr s de ella se ve una misteriosa entrada a las profundidades.
+/55
+cerrada con un candado
+/56
+con un candado abierto
+/57
+Tienes ante t¡ la entrada a La Gran Caverna.
+/58
+Al quitarlo... ­desaparece de tus manos!
+/59
+"­Largo de aqu¡!"
+/60
+ junto a un enano que rabia de amargura.
+/61
+Don Enano se calza y agradecido te deja una linterna.
+/62
+Oyes un d‚bil llanto y con dificultad ves una figura trasl£cida.
+/63
+Es un elfo que llora acurrucado junto a un  rbol.
+/64
+No hay suficiente luz.
+/65
+Y desesperado Don Enano se lanza al volc n.
+­Descanse en paz!
+/66
+"­No quiero!"
+/67
+
+"­Mi casa!"
+/68
+"No es aqu¡."
+/69
+"Mi agradecimiento est  sobre la mesa."
+
+Y penetra en las profundidades.
+/70
+Muy ofendido Elfito se las pira llorando.
+/71
+El sol hace brillar algo en una rama.
+/72     ; ex brillo - ex rama
+­Parece una llave!
+/73
+Para entrar y sobrevivir en las profundidades necesitas m s cosas.
+/74
+"Mi nombre es Elfito."
+/75
+"En la Gran Caverna."
+/76
+"Cuando encuentre mi casa."
+/77
+AVENTURA ORIGINAL I
+/78
+LA BUSQUEDA
+/79
+Como los del circo. Parece tener muy mala uva. Para comunicarte, "h blale".
+/80
+"Don Enano"
+/81
+"­Quiero ser m s alto!"
+/82
+Cabread¡simo te ataca.
+/83
+Luchais en el borde...
+/84
+­y los dos al abismo!
+/85
+Gr ficos:
+/86
+Programaci¢n:
+/87
+Andr‚s  Samudio
+/88
+Direcci¢n:
+/89
+Manuel Gonz lez
+/90
+/91
+/92
+Carlos
+/93
+Marqu‚s
+/94
+(c) 1989 Aventuras AD
+/95
+Esta parte del bosque es muy densa, los  rboles te impiden orientarte bien
+y son todos muy parecidos. Vagas por entre la maleza buscando tu rumbo
+pero pronto te das cuenta de que est s algo despistadillo.
+/96
+­Ya no tiene soluci¢n!
+/97
+"¨Qu‚ dices?"
+/98
+/99
+               ********
+
+
+           ­LA GRAN CAVERNA!
+
+
+  ORIGEN DE LEYENDAS SOBRE FABULOSAS
+
+     RIQUEZAS Y TERRIBLES PELIGROS.
+
+           ¨MITO O REALIDAD?
+
+
+SIGUIENDO EL BORROSO MAPA QUE TE DIO UN
+
+EXTRA¥O (POR CIERTO, MUY RICO) A QUIEN
+
+ SALVASTE DE LAS GARRAS DE UNOS TROLLS
+
+   HAS LLEGADO A ESTE APACIBLE VALLE.
+ 
+
+
+    PRESIENTES QUE ESTAS MUY CERCA,
+
+   PERO DE REPENTE EL VIEJO MAPA SE
+
+   DESHACE EN TUS MANOS MIENTRAS UNA
+ 
+CALIDA BRISA TE SUSURRA:
+
+   "SOLO LOS VALIENTES QUE DOMINEN
+
+    LA MAGIA MERECERAN MIS TESOROS"
+
+­SUERTE!
+
+
+                ******
+/100
+No tienes nada.
+/101
+No hay ninguna salida
+/102
+Sur
+/103
+Este
+/104
+Oeste
+/105
+Noreste
+/106
+Noroeste
+/107
+Sureste
+/108
+Suroeste
+/109
+Subir
+/110
+Bajar
+/111
+Entrar
+/112
+Salir
+/113
+Norte
+/114
+Las salidas posibles son
+/115    ; punto final salidas
+.
+/116    ; separador de salidas
+,
+/117    ; separador de £ltimas salidas
+y
+/118
+La £nica salida es
+/119
+No llevas todos los objetos que necesitas,
+por lo tanto la magia de La Gran Caverna te impide el paso.
+/120
+Pues ya lo sabes.
+/121
+Dicen que las aguas de ‚ste rio tienen la m gica propiedad de hacer
+crecer semillas muy viejas.
+/122
+La boca del pozo est  muy oscura.
+/123
+La entrada es peque¤a, pero lo suficiente para que pases por ella y
+penetres a un Mundo M gico.
+/124
+La tienes llena de agua fresca y fertilizante.
+/125    ; saludar enano
+El enano est  muy cabreado para finuras y con malos modales intenta
+deshacerse de t¡.
+/126    ; pista de subir
+Por su posici¢n y solidez proporciona una f cil subida.
+/127    ; cojo llave
+La llave est  demasiado lejos.
+/128
+­El enano ha caido al volc n!
+/129
+Si en vez de escuchar tanto, teclearas m s, oir¡as: "Clik, Clak, Clok".
+/130    ; escuchar en loc.19
+Oyes el susurro del viento, el canto de los p jaros y el murmullo del agua.
+/131    ; ex rampa
+Es una s¢lida y bella construcci¢n.
+/132    ; ex estructura
+No est s suficientemente cerca.
+/133
+Estas botas tienen un tac¢n muy alto, pero no son de tu n£mero.
+/134
+Elfito da saltos de alegr¡a.
+/135    ; poner botas
+Las botas son peque¤as para tus pies.
+/136
+No tiene pilas.
+/137    ; decir hola a un personaje
+Te dice "­Hola t£!"
+/138    ; mover rama (sin llave)
+La rama se mueve y se mueve.
+/139
+Tambien participaron: Eva Samitier, Juan Darder, Juanjo Mu¤oz
+y Tim Gilberts (some bugs).
+/OTX
+/0
+Una linterna encendida01
+/1
+Una moneda23
+/2
+Una linterna01
+/3
+Una tortilla?/
+/4
+Una botella&'
+/5
+Una botella con agua*+
+/6
+Una llave,-
+/7
+Una pila el‚ctrica45
+/8
+Una pareja de botas67
+/LTX
+/0
+/1
+/2
+/3
+Est s justo en la frontera entre las tierras  ridas del Norte y la zona
+h£meda y boscosa del Sur. Muy cerca hacia el Este hay una caba¤a de
+ladrillos rodeada por un frondoso bosque. Un rio poco caudaloso fluye
+hacia el Sur.
+/4
+En campo abierto, rodeado por escasa vegetaci¢n. Un camino va hacia la caba¤a
+y hacia el Este te llega una peste a azufre.
+/5
+Esta es una zona muy  rida donde solo crecen malezas espinosas.
+La fragancia azufrada ya empieza a molestar.
+/6
+Est s en un terreno tapizado de lava vomitada por el activo volc n
+norte¤o. Hacia el Sur hay una colinita que se eleva suavemente.
+/7
+En ‚ste lugar el paisaje es alucinante, lleno de rocas erosionadas
+y partidas, mudos testigos de anteriores erupciones producidas por
+el furioso volc n del Norte.
+/8
+Desde la colina contemplas el fiero espect culo
+de fuego, humo y cenizas producido por el volc n. Hacia el Oeste,
+a lo lejos, y rodeada de denso bosque, se ve una casita.
+Una senda parte hacia el Este, y al Sur queda el bosque, tras el cual
+ves una extra¤a torre en espiral rodeada de nubes.
+/9
+­Cuidado! Est s al borde del precipicio donde anta¤o se suicidaban
+los enanos celosos. Aqu¡ terminan (aparte de las pasiones desenfrenadas)
+tanto la senda del Oeste como el camino del Norte.
+/10
+Est s en una habitaci¢n bastante guarra. Las paredes desconchadas y el
+suelo roto indican que hace tiempo fu‚ abandonada.
+Ves la oscura boca de un pozo por la que baja una herrumbrosa escalera.
+/11
+­Puaf! El fondo del pozo est  casi seco (por suerte para t¡, curios¢n).
+S¢lo quedan algunos charcos malolientes de agua estancada. La estrechez
+de las mohosas paredes y el enorme silencio que reina hacen que tengas
+por £nica compa¤¡a el latido desbocado de tu coraz¢n.
+/12
+El calor que se desprende
+de la burbujeante lava es asfixiante. Un enorme penacho de cenizas se desprende
+flotando perezosamente del ardiente magma, dejando una peste cosa mala.
+Imprudentemente est s haciendo el payaso en el peligroso borde del volc n
+/13
+/14
+/15
+/16
+Te encuentras en lo profundo del bosque rodeado por densa vegetaci¢n
+y junto a un enorme  rbol con desgajadas ramas que llegan al suelo.
+/17
+Ya est s sentado entre las ramas del enorme  rbol.
+Tienes una espl‚ndida vista de toda la regi¢n.
+Al Norte queda el fard¢n volc n.
+Rodeada de bosque est  la casita.
+Hacia el Oeste un profundo valle se extiende de norte a sur.
+En la lejan¡a, al Sur se yergue la misteriosa espiral.
+Al Este s¢lo hay vacio y nubes.
+/18
+En ‚sta zona los enanos hac¡an sus picnics (aunque las malas lenguas
+dicen que eran verdaderas org¡as).
+Hay varias sillas junto a una mesa y un  rbol con un curioso letrero.
+/19
+Este es un bosquecillo muy agradable al lado Este del valle. Oyes el murmullo de
+una corriente de agua cerca.
+/20
+Aqu¡ el bosque es bastante cerrado, con  rboles por todas partes.
+/21
+Est s al comienzo de una maravillosa rampa artificial fabricada en medio
+del bosque, no se sabe hace cuantos a¤os ni por quien.
+/22
+Sigues en la rampa artificial construida en medio del bosque. Frente a ti
+ves la base de una extra¤a, pero bell¡sima estructura.
+/23
+La rampa te conduce hasta un majestuoso claro. Ante t¡ se eleva la espiral,
+pulida, brillante y sobre todo impresionante. Detr s
+el suelo cae bruscamente.
+/24
+Est s al comienzo del valle, al lado de un alegre arroyuelo que juguetea
+sobre el lecho rocoso en su camino hacia el Sur. Hay bosque a ambos
+lados.
+/25
+El valle se hace mas estrecho y profundo. El arroyo es cada vez menos caudaloso,
+y ahora no tan alegre, porque poco a poco se va filtrando por las
+numerosas grietas del rocoso lecho.
+/26
+/27
+/28
+El ca¤¢n se abre en lo que fu‚ antes una cascada y hoy s¢lo un precipicio
+rocoso. Un enorme cortado parte el paisaje de este a oeste y desde
+tus 500 mts. de altura tienes una vista maravillosa de las tierras del Sur.
+Desde el Norte llega el viento a trav‚s de la garganta rocosa.
+/29
+/30
+/31
+/32
+/33
+/34
+/35
+/36
+/37
+/38
+/39
+/40
+/41
+/42
+/43
+/44
+/45
+/46
+/47
+/48
+;
+;
+

@@ -1,0 +1,43 @@
+
+AVENTURA ESPACIAL - PC
+
+
+Versi¢n 5 1/4
+-------------
+
+El DISCO 1 debe tener los ficheros
+
+AD5.EXE      (renombrado como AD.EXE)
+PART1.CGS
+PART1.EGS
+PART1.DDB
+PART1.CHR
+PART2.DDB
+PART2.CHR
+PART3.DDB
+PART3.CHR
+PART3.DAT
+
+El DISCO 2 debe tener los ficheros
+
+PART1.DAT
+PART2.DAT
+
+Versi¢n 3 1/2
+-------------
+
+Cabe en un solo disco que debe tener los siguientes ficheros
+
+AD3.EXE      (renombrado como AD.EXE)
+PART1.CGS
+PART1.EGS
+PART1.DDB
+PART1.CHR
+PART1.DAT
+PART2.DDB
+PART2.CHR
+PART2.DAT
+PART3.DDB
+PART3.CHR
+PART3.DAT
+
